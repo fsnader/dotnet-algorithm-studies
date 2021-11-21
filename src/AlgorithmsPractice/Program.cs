@@ -59,8 +59,11 @@ namespace AlgorithmsPractice
             //var passingCars = new PassingCars();
             //passingCars.Solution();
 
-            var sorting = new MaxProductOfThree();
-            sorting.Solution();
+            //var sorting = new MaxProductOfThree();
+            //sorting.Solution();
+
+            var numberOfDiscIntersections = new NumberOfDiscIntersections();
+            numberOfDiscIntersections.Solution(new[] { 1, 5, 2, 1, 4, 0 });
 
         }
     }
