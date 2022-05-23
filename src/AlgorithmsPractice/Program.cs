@@ -19,18 +19,6 @@ namespace AlgorithmsPractice
 
         static void Codility()
         {
-            //            // Iterations
-            //            var iterations = new BinaryGap();
-            //            iterations.Solution();
-            //
-            //            // Arrays
-            //            var cyclicRotation = new CyclicRotation();
-            //            cyclicRotation.Solution();
-            //
-            //            var oddOccurrences = new OddOccurrences();
-            //            oddOccurrences.Solution();
-            //
-            //            // Time Complexity
             //            var frogJmps = new FrogJmp();
             //            frogJmps.Solution();
             //

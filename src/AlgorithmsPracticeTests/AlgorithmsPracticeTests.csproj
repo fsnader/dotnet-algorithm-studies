@@ -23,8 +23,4 @@
     <ProjectReference Include="..\AlgorithmsPractice\AlgorithmsPractice.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Codility\" />
-  </ItemGroup>
-
 </Project>

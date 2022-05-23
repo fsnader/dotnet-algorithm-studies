@@ -3,14 +3,9 @@ using System.Linq;
 
 namespace AlgorithmsPractice.Codility.Arrays
 {
-    public class OddOccurrences
+    public static class OddOccurrences
     {
-        public void Solution()
-        {
-            Console.WriteLine(ReturnUnpaired(new []{9, 3, 9, 3, 9, 7, 9}));
-        }
-
-        private int ReturnUnpaired(int[] array)
+        public static int ReturnUnpaired(int[] array)
         {
             var unpaired = array
                 .GroupBy(a => a)
