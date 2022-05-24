@@ -1,12 +1,4 @@
-﻿using System;
-using AlgorithmsPractice.Codility;
-using AlgorithmsPractice.Codility.Arrays;
-using AlgorithmsPractice.Codility.CountingElements;
-using AlgorithmsPractice.Codility.Iterations;
-using AlgorithmsPractice.Codility.Lesson6_Sorting;
-using AlgorithmsPractice.Codility.PrefixSums;
-using AlgorithmsPractice.Codility.TimeComplexity;
-using FrogJumps = AlgorithmsPractice.Codility.CountingElements.FrogJumps;
+﻿using AlgorithmsPractice.Codility.Lesson6_Sorting;
 
 namespace AlgorithmsPractice
 {
