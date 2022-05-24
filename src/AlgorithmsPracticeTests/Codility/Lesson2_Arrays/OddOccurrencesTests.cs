@@ -1,7 +1,4 @@
 ﻿using AlgorithmsPractice.Codility.Arrays;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace AlgorithmsPracticeTests.Codility.Lesson2_Arrays

@@ -19,15 +19,6 @@ namespace AlgorithmsPractice
 
         static void Codility()
         {
-            //            var frogJmps = new FrogJmp();
-            //            frogJmps.Solution();
-            //
-            //            var permutationMissingMember = new PermutationMissingElement();
-            //            permutationMissingMember.Solution();
-            //
-            //            var tapeEquilibrium = new TapeEquilibrium();
-            //            tapeEquilibrium.Solution();
-            //
             //            // Counting Elements
             //            var frogJumps = new FrogJumps();
             //            frogJumps.Solution();
